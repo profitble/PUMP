@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "1",
+    "backgroundColor": "#F59E0B",
+    "imageColor": "#FFFBEB",
+    "textDetailsColor": "#000000",
+    "textColor": "#FCD34D",
+    "buyerName": "45Bz",
+    "amount": "9.8",
+    "tokenName": "PENGU"
+  },
+  {
+    "id": "2",
+    "backgroundColor": "#6366F1",
+    "imageColor": "#EEF2FF",
+    "textDetailsColor": "#000000",
+    "textColor": "#A5B4FC",
+    "buyerName": "siV6",
+    "amount": "0.1",
+    "tokenName": "TRUMP"
+  },
+  {
+    "id": "3",
+    "backgroundColor": "#4F46E5",
+    "imageColor": "#F8FAFC",
+    "textDetailsColor": "#000000",
+    "textColor": "#93C5FD",
+    "buyerName": "u8FE",
+    "amount": "6.3",
+    "tokenName": "BUZZ"
+  },
+  {
+    "id": "4",
+    "backgroundColor": "#8B5CF6",
+    "imageColor": "#F5F3FF",
+    "textDetailsColor": "#000000",
+    "textColor": "#C4B5FD",
+    "buyerName": "zqyu",
+    "amount": "8.9",
+    "tokenName": "DOGE"
+  },
+  {
+    "id": "5",
+    "backgroundColor": "#8B5CF6",
+    "imageColor": "#F5F3FF",
+    "textDetailsColor": "#000000",
+    "textColor": "#C4B5FD",
+    "buyerName": "jkzb",
+    "amount": "4.8",
+    "tokenName": "BUZZ"
+  },
+  {
+    "id": "6",
+    "backgroundColor": "#10B981",
+    "imageColor": "#ECFDF5",
+    "textDetailsColor": "#000000",
+    "textColor": "#34D399",
+    "buyerName": "xzDg",
+    "amount": "8.6",
+    "tokenName": "ai16z"
+  },
+  {
+    "id": "7",
+    "backgroundColor": "#8B5CF6",
+    "imageColor": "#F5F3FF",
+    "textDetailsColor": "#000000",
+    "textColor": "#C4B5FD",
+    "buyerName": "ArLl",
+    "amount": "3.6",
+    "tokenName": "ai16z"
+  },
+  {
+    "id": "8",
+    "backgroundColor": "#10B981",
+    "imageColor": "#ECFDF5",
+    "textDetailsColor": "#000000",
+    "textColor": "#34D399",
+    "buyerName": "WUGU",
+    "amount": "4.7",
+    "tokenName": "BUZZ"
+  },
+  {
+    "id": "9",
+    "backgroundColor": "#6366F1",
+    "imageColor": "#EEF2FF",
+    "textDetailsColor": "#000000",
+    "textColor": "#A5B4FC",
+    "buyerName": "bTc7",
+    "amount": "0.2",
+    "tokenName": "DOGE"
+  },
+  {
+    "id": "10",
+    "backgroundColor": "#F59E0B",
+    "imageColor": "#FFFBEB",
+    "textDetailsColor": "#000000",
+    "textColor": "#FCD34D",
+    "buyerName": "DMqJ",
+    "amount": "0.2",
+    "tokenName": "Fartcoin "
+  },
+  {
+    "id": "11",
+    "backgroundColor": "#8B5CF6",
+    "imageColor": "#F5F3FF",
+    "textDetailsColor": "#000000",
+    "textColor": "#C4B5FD",
+    "buyerName": "q3oi",
+    "amount": "4.8",
+    "tokenName": "ai16z"
+  },
+  {
+    "id": "12",
+    "backgroundColor": "#4F46E5",
+    "imageColor": "#F8FAFC",
+    "textDetailsColor": "#000000",
+    "textColor": "#93C5FD",
+    "buyerName": "HtUy",
+    "amount": "6.3",
+    "tokenName": "Stargate"
+  },
+  {
+    "id": "13",
+    "backgroundColor": "#4F46E5",
+    "imageColor": "#F8FAFC",
+    "textDetailsColor": "#000000",
+    "textColor": "#93C5FD",
+    "buyerName": "Carj",
+    "amount": "7.0",
+    "tokenName": "PENGU"
+  },
+  {
+    "id": "14",
+    "backgroundColor": "#6366F1",
+    "imageColor": "#EEF2FF",
+    "textDetailsColor": "#000000",
+    "textColor": "#A5B4FC",
+    "buyerName": "Y8wt",
+    "amount": "1.2",
+    "tokenName": "ai16z"
+  },
+  {
+    "id": "15",
+    "backgroundColor": "#F59E0B",
+    "imageColor": "#FFFBEB",
+    "textDetailsColor": "#000000",
+    "textColor": "#FCD34D",
+    "buyerName": "Qiaq",
+    "amount": "5.6",
+    "tokenName": "BUZZ"
+  },
+  {
+    "id": "16",
+    "backgroundColor": "#EC4899",
+    "imageColor": "#FDF2F8",
+    "textDetailsColor": "#000000",
+    "textColor": "#F9A8D4",
+    "buyerName": "z1be",
+    "amount": "6.9",
+    "tokenName": "PENGU"
+  },
+  {
+    "id": "17",
+    "backgroundColor": "#F59E0B",
+    "imageColor": "#FFFBEB",
+    "textDetailsColor": "#000000",
+    "textColor": "#FCD34D",
+    "buyerName": "In6N",
+    "amount": "7.0",
+    "tokenName": "STARDM"
+  },
+  {
+    "id": "18",
+    "backgroundColor": "#6366F1",
+    "imageColor": "#EEF2FF",
+    "textDetailsColor": "#000000",
+    "textColor": "#A5B4FC",
+    "buyerName": "Ns9T",
+    "amount": "0.9",
+    "tokenName": "PENGU"
+  },
+  {
+    "id": "19",
+    "backgroundColor": "#EC4899",
+    "imageColor": "#FDF2F8",
+    "textDetailsColor": "#000000",
+    "textColor": "#F9A8D4",
+    "buyerName": "GJTp",
+    "amount": "0.6",
+    "tokenName": "Stargate"
+  },
+  {
+    "id": "20",
+    "backgroundColor": "#4F46E5",
+    "imageColor": "#F8FAFC",
+    "textDetailsColor": "#000000",
+    "textColor": "#93C5FD",
+    "buyerName": "VBBm",
+    "amount": "5.5",
+    "tokenName": "STARDM"
+  },
+  {
+    "id": "21",
+    "backgroundColor": "#4F46E5",
+    "imageColor": "#F8FAFC",
+    "textDetailsColor": "#000000",
+    "textColor": "#93C5FD",
+    "buyerName": "cZfe",
+    "amount": "1.9",
+    "tokenName": "PENGU"
+  },
+  {
+    "id": "22",
+    "backgroundColor": "#EC4899",
+    "imageColor": "#FDF2F8",
+    "textDetailsColor": "#000000",
+    "textColor": "#F9A8D4",
+    "buyerName": "hO9o",
+    "amount": "3.6",
+    "tokenName": "BUZZ"
+  },
+  {
+    "id": "23",
+    "backgroundColor": "#F59E0B",
+    "imageColor": "#FFFBEB",
+    "textDetailsColor": "#000000",
+    "textColor": "#FCD34D",
+    "buyerName": "PSG0",
+    "amount": "0.5",
+    "tokenName": "ai16z"
+  },
+  {
+    "id": "24",
+    "backgroundColor": "#4F46E5",
+    "imageColor": "#F8FAFC",
+    "textDetailsColor": "#000000",
+    "textColor": "#93C5FD",
+    "buyerName": "vUtz",
+    "amount": "0.9",
+    "tokenName": "STARDM"
+  },
+  {
+    "id": "25",
+    "backgroundColor": "#EC4899",
+    "imageColor": "#FDF2F8",
+    "textDetailsColor": "#000000",
+    "textColor": "#F9A8D4",
+    "buyerName": "IriH",
+    "amount": "4.0",
+    "tokenName": "SOLY"
+  },
+  {
+    "id": "26",
+    "backgroundColor": "#EC4899",
+    "imageColor": "#FDF2F8",
+    "textDetailsColor": "#000000",
+    "textColor": "#F9A8D4",
+    "buyerName": "MJ0Y",
+    "amount": "6.4",
+    "tokenName": "BUZZ"
+  },
+  {
+    "id": "27",
+    "backgroundColor": "#10B981",
+    "imageColor": "#ECFDF5",
+    "textDetailsColor": "#000000",
+    "textColor": "#34D399",
+    "buyerName": "CeWD",
+    "amount": "1.8",
+    "tokenName": "STARDM"
+  },
+  {
+    "id": "28",
+    "backgroundColor": "#F59E0B",
+    "imageColor": "#FFFBEB",
+    "textDetailsColor": "#000000",
+    "textColor": "#FCD34D",
+    "buyerName": "6WfI",
+    "amount": "7.1",
+    "tokenName": "STARDM"
+  },
+  {
+    "id": "29",
+    "backgroundColor": "#8B5CF6",
+    "imageColor": "#F5F3FF",
+    "textDetailsColor": "#000000",
+    "textColor": "#C4B5FD",
+    "buyerName": "ijed",
+    "amount": "5.8",
+    "tokenName": "STARDM"
+  },
+  {
+    "id": "30",
+    "backgroundColor": "#4F46E5",
+    "imageColor": "#F8FAFC",
+    "textDetailsColor": "#000000",
+    "textColor": "#93C5FD",
+    "buyerName": "kdSd",
+    "amount": "0.9",
+    "tokenName": "TRUMP"
+  },
+  {
+    "id": "31",
+    "backgroundColor": "#8B5CF6",
+    "imageColor": "#F5F3FF",
+    "textDetailsColor": "#000000",
+    "textColor": "#C4B5FD",
+    "buyerName": "BvIi",
+    "amount": "3.0",
+    "tokenName": "SOLY"
+  },
+  {
+    "id": "32",
+    "backgroundColor": "#F59E0B",
+    "imageColor": "#FFFBEB",
+    "textDetailsColor": "#000000",
+    "textColor": "#FCD34D",
+    "buyerName": "v15n",
+    "amount": "3.1",
+    "tokenName": "BUZZ"
+  },
+  {
+    "id": "33",
+    "backgroundColor": "#F59E0B",
+    "imageColor": "#FFFBEB",
+    "textDetailsColor": "#000000",
+    "textColor": "#FCD34D",
+    "buyerName": "NR0g",
+    "amount": "7.5",
+    "tokenName": "ai16z"
+  },
+  {
+    "id": "34",
+    "backgroundColor": "#4F46E5",
+    "imageColor": "#F8FAFC",
+    "textDetailsColor": "#000000",
+    "textColor": "#93C5FD",
+    "buyerName": "PMHX",
+    "amount": "7.0",
+    "tokenName": "Fartcoin "
+  },
+  {
+    "id": "35",
+    "backgroundColor": "#10B981",
+    "imageColor": "#ECFDF5",
+    "textDetailsColor": "#000000",
+    "textColor": "#34D399",
+    "buyerName": "CLh2",
+    "amount": "9.2",
+    "tokenName": "Stargate"
+  },
+  {
+    "id": "36",
+    "backgroundColor": "#EC4899",
+    "imageColor": "#FDF2F8",
+    "textDetailsColor": "#000000",
+    "textColor": "#F9A8D4",
+    "buyerName": "4ieo",
+    "amount": "0.9",
+    "tokenName": "TRUMP"
+  },
+  {
+    "id": "37",
+    "backgroundColor": "#8B5CF6",
+    "imageColor": "#F5F3FF",
+    "textDetailsColor": "#000000",
+    "textColor": "#C4B5FD",
+    "buyerName": "A0wv",
+    "amount": "7.8",
+    "tokenName": "BUZZ"
+  },
+  {
+    "id": "38",
+    "backgroundColor": "#F59E0B",
+    "imageColor": "#FFFBEB",
+    "textDetailsColor": "#000000",
+    "textColor": "#FCD34D",
+    "buyerName": "wK1n",
+    "amount": "2.6",
+    "tokenName": "SOLY"
+  },
+  {
+    "id": "39",
+    "backgroundColor": "#EC4899",
+    "imageColor": "#FDF2F8",
+    "textDetailsColor": "#000000",
+    "textColor": "#F9A8D4",
+    "buyerName": "Z4pl",
+    "amount": "0.8",
+    "tokenName": "PENGU"
+  },
+  {
+    "id": "40",
+    "backgroundColor": "#10B981",
+    "imageColor": "#ECFDF5",
+    "textDetailsColor": "#000000",
+    "textColor": "#34D399",
+    "buyerName": "zXJz",
+    "amount": "4.1",
+    "tokenName": "ai16z"
+  },
+  {
+    "id": "41",
+    "backgroundColor": "#4F46E5",
+    "imageColor": "#F8FAFC",
+    "textDetailsColor": "#000000",
+    "textColor": "#93C5FD",
+    "buyerName": "yasz",
+    "amount": "7.7",
+    "tokenName": "PENGU"
+  },
+  {
+    "id": "42",
+    "backgroundColor": "#10B981",
+    "imageColor": "#ECFDF5",
+    "textDetailsColor": "#000000",
+    "textColor": "#34D399",
+    "buyerName": "dGz7",
+    "amount": "7.4",
+    "tokenName": "PENGU"
+  },
+  {
+    "id": "43",
+    "backgroundColor": "#EC4899",
+    "imageColor": "#FDF2F8",
+    "textDetailsColor": "#000000",
+    "textColor": "#F9A8D4",
+    "buyerName": "qHai",
+    "amount": "3.4",
+    "tokenName": "BUZZ"
+  },
+  {
+    "id": "44",
+    "backgroundColor": "#EC4899",
+    "imageColor": "#FDF2F8",
+    "textDetailsColor": "#000000",
+    "textColor": "#F9A8D4",
+    "buyerName": "dawr",
+    "amount": "4.6",
+    "tokenName": "SOLY"
+  },
+  {
+    "id": "45",
+    "backgroundColor": "#8B5CF6",
+    "imageColor": "#F5F3FF",
+    "textDetailsColor": "#000000",
+    "textColor": "#C4B5FD",
+    "buyerName": "SG6o",
+    "amount": "3.5",
+    "tokenName": "BUZZ"
+  },
+  {
+    "id": "46",
+    "backgroundColor": "#F59E0B",
+    "imageColor": "#FFFBEB",
+    "textDetailsColor": "#000000",
+    "textColor": "#FCD34D",
+    "buyerName": "336d",
+    "amount": "1.3",
+    "tokenName": "Fartcoin "
+  },
+  {
+    "id": "47",
+    "backgroundColor": "#6366F1",
+    "imageColor": "#EEF2FF",
+    "textDetailsColor": "#000000",
+    "textColor": "#A5B4FC",
+    "buyerName": "6Lum",
+    "amount": "9.7",
+    "tokenName": "TRUMP"
+  },
+  {
+    "id": "48",
+    "backgroundColor": "#8B5CF6",
+    "imageColor": "#F5F3FF",
+    "textDetailsColor": "#000000",
+    "textColor": "#C4B5FD",
+    "buyerName": "K6nn",
+    "amount": "3.6",
+    "tokenName": "DOGE"
+  },
+  {
+    "id": "49",
+    "backgroundColor": "#10B981",
+    "imageColor": "#ECFDF5",
+    "textDetailsColor": "#000000",
+    "textColor": "#34D399",
+    "buyerName": "REww",
+    "amount": "7.7",
+    "tokenName": "STARDM"
+  },
+  {
+    "id": "50",
+    "backgroundColor": "#8B5CF6",
+    "imageColor": "#F5F3FF",
+    "textDetailsColor": "#000000",
+    "textColor": "#C4B5FD",
+    "buyerName": "So90",
+    "amount": "7.7",
+    "tokenName": "Stargate"
+  },
+  {
+    "id": "51",
+    "backgroundColor": "#8B5CF6",
+    "imageColor": "#F5F3FF",
+    "textDetailsColor": "#000000",
+    "textColor": "#C4B5FD",
+    "buyerName": "WrqN",
+    "amount": "5.3",
+    "tokenName": "DOGE"
+  },
+  {
+    "id": "52",
+    "backgroundColor": "#10B981",
+    "imageColor": "#ECFDF5",
+    "textDetailsColor": "#000000",
+    "textColor": "#34D399",
+    "buyerName": "Kc7k",
+    "amount": "2.0",
+    "tokenName": "ai16z"
+  },
+  {
+    "id": "53",
+    "backgroundColor": "#EC4899",
+    "imageColor": "#FDF2F8",
+    "textDetailsColor": "#000000",
+    "textColor": "#F9A8D4",
+    "buyerName": "rtJt",
+    "amount": "7.7",
+    "tokenName": "PENGU"
+  },
+  {
+    "id": "54",
+    "backgroundColor": "#8B5CF6",
+    "imageColor": "#F5F3FF",
+    "textDetailsColor": "#000000",
+    "textColor": "#C4B5FD",
+    "buyerName": "fOen",
+    "amount": "9.4",
+    "tokenName": "STARDM"
+  },
+  {
+    "id": "55",
+    "backgroundColor": "#8B5CF6",
+    "imageColor": "#F5F3FF",
+    "textDetailsColor": "#000000",
+    "textColor": "#C4B5FD",
+    "buyerName": "kFOQ",
+    "amount": "4.7",
+    "tokenName": "STARDM"
+  },
+  {
+    "id": "56",
+    "backgroundColor": "#EC4899",
+    "imageColor": "#FDF2F8",
+    "textDetailsColor": "#000000",
+    "textColor": "#F9A8D4",
+    "buyerName": "vNUb",
+    "amount": "8.4",
+    "tokenName": "BUZZ"
+  },
+  {
+    "id": "57",
+    "backgroundColor": "#6366F1",
+    "imageColor": "#EEF2FF",
+    "textDetailsColor": "#000000",
+    "textColor": "#A5B4FC",
+    "buyerName": "ggyQ",
+    "amount": "5.6",
+    "tokenName": "TRUMP"
+  },
+  {
+    "id": "58",
+    "backgroundColor": "#6366F1",
+    "imageColor": "#EEF2FF",
+    "textDetailsColor": "#000000",
+    "textColor": "#A5B4FC",
+    "buyerName": "dW57",
+    "amount": "0.7",
+    "tokenName": "ai16z"
+  },
+  {
+    "id": "59",
+    "backgroundColor": "#6366F1",
+    "imageColor": "#EEF2FF",
+    "textDetailsColor": "#000000",
+    "textColor": "#A5B4FC",
+    "buyerName": "iaOg",
+    "amount": "8.9",
+    "tokenName": "DOGE"
+  },
+  {
+    "id": "60",
+    "backgroundColor": "#4F46E5",
+    "imageColor": "#F8FAFC",
+    "textDetailsColor": "#000000",
+    "textColor": "#93C5FD",
+    "buyerName": "dEwx",
+    "amount": "9.2",
+    "tokenName": "SOLY"
+  },
+  {
+    "id": "61",
+    "backgroundColor": "#8B5CF6",
+    "imageColor": "#F5F3FF",
+    "textDetailsColor": "#000000",
+    "textColor": "#C4B5FD",
+    "buyerName": "qMHI",
+    "amount": "3.9",
+    "tokenName": "DOGE"
+  },
+  {
+    "id": "62",
+    "backgroundColor": "#4F46E5",
+    "imageColor": "#F8FAFC",
+    "textDetailsColor": "#000000",
+    "textColor": "#93C5FD",
+    "buyerName": "y61D",
+    "amount": "1.2",
+    "tokenName": "STARDM"
+  },
+  {
+    "id": "63",
+    "backgroundColor": "#6366F1",
+    "imageColor": "#EEF2FF",
+    "textDetailsColor": "#000000",
+    "textColor": "#A5B4FC",
+    "buyerName": "wNQJ",
+    "amount": "9.6",
+    "tokenName": "TRUMP"
+  },
+  {
+    "id": "64",
+    "backgroundColor": "#6366F1",
+    "imageColor": "#EEF2FF",
+    "textDetailsColor": "#000000",
+    "textColor": "#A5B4FC",
+    "buyerName": "OQCQ",
+    "amount": "3.3",
+    "tokenName": "SOLY"
+  },
+  {
+    "id": "65",
+    "backgroundColor": "#F59E0B",
+    "imageColor": "#FFFBEB",
+    "textDetailsColor": "#000000",
+    "textColor": "#FCD34D",
+    "buyerName": "uSpJ",
+    "amount": "5.6",
+    "tokenName": "Fartcoin "
+  },
+  {
+    "id": "66",
+    "backgroundColor": "#6366F1",
+    "imageColor": "#EEF2FF",
+    "textDetailsColor": "#000000",
+    "textColor": "#A5B4FC",
+    "buyerName": "hgmO",
+    "amount": "0.6",
+    "tokenName": "DOGE"
+  },
+  {
+    "id": "67",
+    "backgroundColor": "#EC4899",
+    "imageColor": "#FDF2F8",
+    "textDetailsColor": "#000000",
+    "textColor": "#F9A8D4",
+    "buyerName": "TzYB",
+    "amount": "5.9",
+    "tokenName": "Fartcoin "
+  },
+  {
+    "id": "68",
+    "backgroundColor": "#8B5CF6",
+    "imageColor": "#F5F3FF",
+    "textDetailsColor": "#000000",
+    "textColor": "#C4B5FD",
+    "buyerName": "vQ4P",
+    "amount": "9.9",
+    "tokenName": "STARDM"
+  },
+  {
+    "id": "69",
+    "backgroundColor": "#6366F1",
+    "imageColor": "#EEF2FF",
+    "textDetailsColor": "#000000",
+    "textColor": "#A5B4FC",
+    "buyerName": "LBut",
+    "amount": "2.6",
+    "tokenName": "STARDM"
+  },
+  {
+    "id": "70",
+    "backgroundColor": "#10B981",
+    "imageColor": "#ECFDF5",
+    "textDetailsColor": "#000000",
+    "textColor": "#34D399",
+    "buyerName": "SkZq",
+    "amount": "3.9",
+    "tokenName": "Stargate"
+  },
+  {
+    "id": "71",
+    "backgroundColor": "#F59E0B",
+    "imageColor": "#FFFBEB",
+    "textDetailsColor": "#000000",
+    "textColor": "#FCD34D",
+    "buyerName": "bYP8",
+    "amount": "6.8",
+    "tokenName": "DOGE"
+  },
+  {
+    "id": "72",
+    "backgroundColor": "#10B981",
+    "imageColor": "#ECFDF5",
+    "textDetailsColor": "#000000",
+    "textColor": "#34D399",
+    "buyerName": "tqvb",
+    "amount": "4.1",
+    "tokenName": "BUZZ"
+  },
+  {
+    "id": "73",
+    "backgroundColor": "#10B981",
+    "imageColor": "#ECFDF5",
+    "textDetailsColor": "#000000",
+    "textColor": "#34D399",
+    "buyerName": "RmPr",
+    "amount": "4.2",
+    "tokenName": "SOLY"
+  },
+  {
+    "id": "74",
+    "backgroundColor": "#EC4899",
+    "imageColor": "#FDF2F8",
+    "textDetailsColor": "#000000",
+    "textColor": "#F9A8D4",
+    "buyerName": "TSMD",
+    "amount": "5.4",
+    "tokenName": "Stargate"
+  },
+  {
+    "id": "75",
+    "backgroundColor": "#10B981",
+    "imageColor": "#ECFDF5",
+    "textDetailsColor": "#000000",
+    "textColor": "#34D399",
+    "buyerName": "zsc7",
+    "amount": "9.7",
+    "tokenName": "Fartcoin "
+  },
+  {
+    "id": "76",
+    "backgroundColor": "#4F46E5",
+    "imageColor": "#F8FAFC",
+    "textDetailsColor": "#000000",
+    "textColor": "#93C5FD",
+    "buyerName": "WXV0",
+    "amount": "2.3",
+    "tokenName": "ai16z"
+  },
+  {
+    "id": "77",
+    "backgroundColor": "#6366F1",
+    "imageColor": "#EEF2FF",
+    "textDetailsColor": "#000000",
+    "textColor": "#A5B4FC",
+    "buyerName": "iYJB",
+    "amount": "8.9",
+    "tokenName": "Fartcoin "
+  },
+  {
+    "id": "78",
+    "backgroundColor": "#8B5CF6",
+    "imageColor": "#F5F3FF",
+    "textDetailsColor": "#000000",
+    "textColor": "#C4B5FD",
+    "buyerName": "x2ZN",
+    "amount": "3.4",
+    "tokenName": "DOGE"
+  },
+  {
+    "id": "79",
+    "backgroundColor": "#10B981",
+    "imageColor": "#ECFDF5",
+    "textDetailsColor": "#000000",
+    "textColor": "#34D399",
+    "buyerName": "COS9",
+    "amount": "8.1",
+    "tokenName": "STARDM"
+  },
+  {
+    "id": "80",
+    "backgroundColor": "#6366F1",
+    "imageColor": "#EEF2FF",
+    "textDetailsColor": "#000000",
+    "textColor": "#A5B4FC",
+    "buyerName": "wDhw",
+    "amount": "5.6",
+    "tokenName": "Stargate"
+  },
+  {
+    "id": "81",
+    "backgroundColor": "#EC4899",
+    "imageColor": "#FDF2F8",
+    "textDetailsColor": "#000000",
+    "textColor": "#F9A8D4",
+    "buyerName": "8FEl",
+    "amount": "9.9",
+    "tokenName": "STARDM"
+  },
+  {
+    "id": "82",
+    "backgroundColor": "#10B981",
+    "imageColor": "#ECFDF5",
+    "textDetailsColor": "#000000",
+    "textColor": "#34D399",
+    "buyerName": "SX7o",
+    "amount": "3.1",
+    "tokenName": "SOLY"
+  },
+  {
+    "id": "83",
+    "backgroundColor": "#10B981",
+    "imageColor": "#ECFDF5",
+    "textDetailsColor": "#000000",
+    "textColor": "#34D399",
+    "buyerName": "DYWb",
+    "amount": "6.9",
+    "tokenName": "ai16z"
+  },
+  {
+    "id": "84",
+    "backgroundColor": "#8B5CF6",
+    "imageColor": "#F5F3FF",
+    "textDetailsColor": "#000000",
+    "textColor": "#C4B5FD",
+    "buyerName": "VUul",
+    "amount": "1.1",
+    "tokenName": "PENGU"
+  },
+  {
+    "id": "85",
+    "backgroundColor": "#4F46E5",
+    "imageColor": "#F8FAFC",
+    "textDetailsColor": "#000000",
+    "textColor": "#93C5FD",
+    "buyerName": "FmQf",
+    "amount": "6.2",
+    "tokenName": "TRUMP"
+  },
+  {
+    "id": "86",
+    "backgroundColor": "#10B981",
+    "imageColor": "#ECFDF5",
+    "textDetailsColor": "#000000",
+    "textColor": "#34D399",
+    "buyerName": "z7Bk",
+    "amount": "9.4",
+    "tokenName": "BUZZ"
+  },
+  {
+    "id": "87",
+    "backgroundColor": "#4F46E5",
+    "imageColor": "#F8FAFC",
+    "textDetailsColor": "#000000",
+    "textColor": "#93C5FD",
+    "buyerName": "98Hr",
+    "amount": "3.8",
+    "tokenName": "ai16z"
+  },
+  {
+    "id": "88",
+    "backgroundColor": "#6366F1",
+    "imageColor": "#EEF2FF",
+    "textDetailsColor": "#000000",
+    "textColor": "#A5B4FC",
+    "buyerName": "38f8",
+    "amount": "2.5",
+    "tokenName": "Fartcoin "
+  },
+  {
+    "id": "89",
+    "backgroundColor": "#10B981",
+    "imageColor": "#ECFDF5",
+    "textDetailsColor": "#000000",
+    "textColor": "#34D399",
+    "buyerName": "UjQk",
+    "amount": "2.2",
+    "tokenName": "STARDM"
+  },
+  {
+    "id": "90",
+    "backgroundColor": "#F59E0B",
+    "imageColor": "#FFFBEB",
+    "textDetailsColor": "#000000",
+    "textColor": "#FCD34D",
+    "buyerName": "TDLV",
+    "amount": "6.0",
+    "tokenName": "Stargate"
+  },
+  {
+    "id": "91",
+    "backgroundColor": "#F59E0B",
+    "imageColor": "#FFFBEB",
+    "textDetailsColor": "#000000",
+    "textColor": "#FCD34D",
+    "buyerName": "VBZf",
+    "amount": "2.7",
+    "tokenName": "STARDM"
+  },
+  {
+    "id": "92",
+    "backgroundColor": "#10B981",
+    "imageColor": "#ECFDF5",
+    "textDetailsColor": "#000000",
+    "textColor": "#34D399",
+    "buyerName": "JN4w",
+    "amount": "8.0",
+    "tokenName": "PENGU"
+  },
+  {
+    "id": "93",
+    "backgroundColor": "#8B5CF6",
+    "imageColor": "#F5F3FF",
+    "textDetailsColor": "#000000",
+    "textColor": "#C4B5FD",
+    "buyerName": "jpkY",
+    "amount": "2.8",
+    "tokenName": "STARDM"
+  },
+  {
+    "id": "94",
+    "backgroundColor": "#4F46E5",
+    "imageColor": "#F8FAFC",
+    "textDetailsColor": "#000000",
+    "textColor": "#93C5FD",
+    "buyerName": "Jyxc",
+    "amount": "2.1",
+    "tokenName": "ai16z"
+  },
+  {
+    "id": "95",
+    "backgroundColor": "#10B981",
+    "imageColor": "#ECFDF5",
+    "textDetailsColor": "#000000",
+    "textColor": "#34D399",
+    "buyerName": "YdJK",
+    "amount": "2.7",
+    "tokenName": "BUZZ"
+  },
+  {
+    "id": "96",
+    "backgroundColor": "#10B981",
+    "imageColor": "#ECFDF5",
+    "textDetailsColor": "#000000",
+    "textColor": "#34D399",
+    "buyerName": "jv2l",
+    "amount": "7.7",
+    "tokenName": "ai16z"
+  },
+  {
+    "id": "97",
+    "backgroundColor": "#10B981",
+    "imageColor": "#ECFDF5",
+    "textDetailsColor": "#000000",
+    "textColor": "#34D399",
+    "buyerName": "NF0F",
+    "amount": "4.7",
+    "tokenName": "ai16z"
+  },
+  {
+    "id": "98",
+    "backgroundColor": "#EC4899",
+    "imageColor": "#FDF2F8",
+    "textDetailsColor": "#000000",
+    "textColor": "#F9A8D4",
+    "buyerName": "Ksu9",
+    "amount": "6.6",
+    "tokenName": "ai16z"
+  },
+  {
+    "id": "99",
+    "backgroundColor": "#F59E0B",
+    "imageColor": "#FFFBEB",
+    "textDetailsColor": "#000000",
+    "textColor": "#FCD34D",
+    "buyerName": "SEwl",
+    "amount": "1.4",
+    "tokenName": "PENGU"
+  },
+  {
+    "id": "100",
+    "backgroundColor": "#10B981",
+    "imageColor": "#ECFDF5",
+    "textDetailsColor": "#000000",
+    "textColor": "#34D399",
+    "buyerName": "JgeA",
+    "amount": "0.4",
+    "tokenName": "PENGU"
+  }
+]

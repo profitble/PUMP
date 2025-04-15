@@ -1,0 +1,117 @@
+# Strict Security Rules
+.env
+.env.*
+*.key
+*.pem
+*.cert
+*.secret
+secrets/
+credentials/
+config/keys/
+
+# Smart Contract Protection
+contracts/
+artifacts/
+cache/
+typechain/
+deployments/
+hardhat.config.*
+truffle-config.*
+slither.config.json
+
+# Protocol Implementation
+supabase/functions/*
+!supabase/functions/README.md
+utils/contracts/
+utils/protocols/
+utils/blockchain/
+utils/trading/
+
+# API & Service Keys
+**/service-account*
+**/*config*.json
+**/*config*.js
+!app.config.example.js
+**/google-services.json
+**/GoogleService-Info.plist
+
+# Core Implementation
+app/core/
+app/services/blockchain/
+app/services/trading/
+app/protocols/
+hooks/trading/
+hooks/blockchain/
+
+# Dependencies & Build
+node_modules/
+.expo/
+dist/
+build/
+web-build/
+*.tsbuildinfo
+
+# Mobile Specific
+ios/
+android/
+*.keystore
+*.jks
+*.p8
+*.p12
+*.mobileprovision
+*.orig.*
+
+# IDE & Development
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+*.log
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# Testing & Debug
+coverage/
+.nyc_output/
+*.lcov
+test-results/
+playwright-report/
+cypress/videos/
+cypress/screenshots/
+
+# Documentation (only allow public docs)
+docs/internal/
+docs/private/
+docs/architecture/
+!docs/public/
+
+# Database
+**/migrations/
+**/seeds/
+**/*.sql
+prisma/
+
+# Keep Public Assets
+!assets/images/shots.png
+!assets/images/icon.png
+!assets/images/adaptive-icon.png
+!assets/images/favicon.png
+
+# Temp & Cache
+.cache/
+.temp/
+tmp/
+*.tmp
+*.bak
+
+# Yarn & NPM
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
+package-lock.json
