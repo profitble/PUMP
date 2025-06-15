@@ -1,0 +1,179 @@
+[
+  {
+    "pair_address": "GQsPr4RJk9AZkkfWHud7v4MtotcxhaYzZHdsPCg9vNvW",
+    "token_address": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+    "token_name": "OFFICIAL TRUMP",
+    "token_symbol": "TRUMP",
+    "price_usd": 36.4,
+    "volume_24h": 287720407.51,
+    "liquidity_usd": 22459534.8,
+    "market_cap": 7280425901,
+    "image_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN.png?key=f02e9e",
+    "socials": [
+      {
+        "type": "twitter",
+        "url": "https://x.com/GetTrumpMemes"
+      }
+    ]
+  },
+  {
+    "pair_address": "Bzc9NZfMqkXR6fz1DBph7BDf9BroyEf6pnzESP7v5iiw",
+    "token_address": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+    "token_name": "Fartcoin ",
+    "token_symbol": "Fartcoin ",
+    "price_usd": 1.59,
+    "volume_24h": 84292134.93,
+    "liquidity_usd": 25819611.19,
+    "market_cap": 1595680044,
+    "image_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump.png?key=8180d2",
+    "socials": [
+      {
+        "type": "twitter",
+        "url": "https://x.com/FartCoinOfSOL"
+      }
+    ]
+  },
+  {
+    "pair_address": "GwtkAejPkRcDmGs2YozxZFQaCKvDja8Mn8MLBvk26sy9",
+    "token_address": "FsTc9VgMQoHAc5o8DdeAFv1RphgNjb4kZTxx8JQSpump",
+    "token_name": "Stargate",
+    "token_symbol": "Stargate",
+    "price_usd": 0.01046,
+    "volume_24h": 82924975.66,
+    "liquidity_usd": 873526.74,
+    "market_cap": 10468794,
+    "image_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FsTc9VgMQoHAc5o8DdeAFv1RphgNjb4kZTxx8JQSpump.png?key=f52555",
+    "socials": [
+      {
+        "type": "twitter",
+        "url": "https://x.com/stargatecto"
+      },
+      {
+        "type": "telegram",
+        "url": "https://t.me/stargatesol"
+      }
+    ]
+  },
+  {
+    "pair_address": "J2p6tgZDkvtHQ3VfbGRjzHJNLrqFgGfvjJsp2K7HX5cH",
+    "token_address": "9DHe3pycTuymFk4H4bbPoAJ4hQrr2kaLDF6J6aAKpump",
+    "token_name": "Hive AI",
+    "token_symbol": "BUZZ",
+    "price_usd": 0.1495,
+    "volume_24h": 74138197.29,
+    "liquidity_usd": 4841866.49,
+    "market_cap": 149483737,
+    "image_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9DHe3pycTuymFk4H4bbPoAJ4hQrr2kaLDF6J6aAKpump.png?key=77c663",
+    "socials": [
+      {
+        "type": "twitter",
+        "url": "https://x.com/askthehive_ai"
+      }
+    ]
+  },
+  {
+    "pair_address": "8sN9549P3Zn6xpQRqpApN57xzkCh6sJxLwuEjcG2W4Ji",
+    "token_address": "HeLp6NuQkmYB4pYWo2zYs22mESHXPQYzXbB8n4V98jwC",
+    "token_name": "ai16z",
+    "token_symbol": "ai16z",
+    "price_usd": 1.022,
+    "volume_24h": 66326226.35,
+    "liquidity_usd": 7761899.36,
+    "market_cap": 1125195630,
+    "image_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HeLp6NuQkmYB4pYWo2zYs22mESHXPQYzXbB8n4V98jwC.png?key=b380cb",
+    "socials": [
+      {
+        "type": "twitter",
+        "url": "https://x.com/ai16zdao"
+      },
+      {
+        "type": "telegram",
+        "url": "https://t.me/ai16zcommunity"
+      },
+      {
+        "type": "discord",
+        "url": "https://discord.gg/ai16z"
+      }
+    ]
+  },
+  {
+    "pair_address": "4DZj6mq2iKrV1p7JkpmWMA8tJmeUjACVZpkdtqhxJW6Y",
+    "token_address": "Faph9CjPwV9pRz642sbgnhhXVQFhQJZrWp8jspEDpump",
+    "token_name": "Stardom AI",
+    "token_symbol": "STARDM",
+    "price_usd": 0.01423,
+    "volume_24h": 68685490.24,
+    "liquidity_usd": 722001.2,
+    "market_cap": 14231021,
+    "image_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Faph9CjPwV9pRz642sbgnhhXVQFhQJZrWp8jspEDpump.png?key=7b2de2",
+    "socials": [
+      {
+        "type": "twitter",
+        "url": "https://x.com/trystardom"
+      },
+      {
+        "type": "telegram",
+        "url": "https://t.me/stardomDeFAI"
+      }
+    ]
+  },
+  {
+    "pair_address": "B4Vwozy1FGtp8SELXSXydWSzavPUGnJ77DURV2k4MhUV",
+    "token_address": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+    "token_name": "Pudgy Penguins",
+    "token_symbol": "PENGU",
+    "price_usd": 0.02426,
+    "volume_24h": 50409413.77,
+    "liquidity_usd": 18107949.06,
+    "market_cap": 1525300048,
+    "image_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv.png?key=c3f6fe",
+    "socials": [
+      {
+        "type": "twitter",
+        "url": "https://x.com/pudgypenguins"
+      },
+      {
+        "type": "discord",
+        "url": "https://discord.gg/pudgypenguins"
+      }
+    ]
+  },
+  {
+    "pair_address": "9Drk5DFM8q216PTNSPZK4Wdc9pwbV82CKkEgi9YNP5D7",
+    "token_address": "8a6WvkVRevWM1W3HFwTPfuLMinvahxNNQb5n6VYipump",
+    "token_name": "OFFICIAL DOGE",
+    "token_symbol": "DOGE",
+    "price_usd": 0.01278,
+    "volume_24h": 64386508.44,
+    "liquidity_usd": 686362.55,
+    "market_cap": 12788771,
+    "image_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8a6WvkVRevWM1W3HFwTPfuLMinvahxNNQb5n6VYipump.png?key=439a0a",
+    "socials": [
+      {
+        "type": "twitter",
+        "url": "https://x.com/SolanaCoinDoge"
+      },
+      {
+        "type": "telegram",
+        "url": "https://t.me/DogeTokenSOL"
+      }
+    ]
+  },
+  {
+    "pair_address": "FPTCKtMboqdhEWYcjVJfccBQhuRWkUn5MoBfi1BkZacB",
+    "token_address": "FmkD8vrRaxAeXfmG6WtpUjcd3kXYcWLcNWpmjsE7pump",
+    "token_name": "SOLY AI",
+    "token_symbol": "SOLY",
+    "price_usd": 0.01076,
+    "volume_24h": 42359427.26,
+    "liquidity_usd": 546578.76,
+    "market_cap": 10762667,
+    "image_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FmkD8vrRaxAeXfmG6WtpUjcd3kXYcWLcNWpmjsE7pump.png?key=aa4344",
+    "socials": [
+      {
+        "type": "twitter",
+        "url": "https://x.com/Soly_AI"
+      }
+    ]
+  }
+]

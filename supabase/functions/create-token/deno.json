@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "@solana/web3.js": "",
+    "bs58": "npm:bs58@5.0.0"
+  }
+}
