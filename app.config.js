@@ -10,16 +10,11 @@ export default {
     icon: './assets/images/icon.png',
     scheme: 'fun.top',
     userInterfaceStyle: 'automatic',
-    splash: {
-      image: './assets/images/splash.png',
-      resizeMode: 'contain',
-      backgroundColor: '#0061FF',
-    },
     assetBundlePatterns: [
       "**/*"
     ],
     ios: {
-      buildNumber: '2',
+      buildNumber: '1',
       bundleIdentifier: 'com.maxta.topfun',
       supportsTablet: true,
       config: {
