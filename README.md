@@ -208,54 +208,42 @@ flowchart TD
 ### App Organization
 
 ```mermaid
-graph LR
+graph TB
     subgraph "App Routes"
         A[_layout.tsx]
         B[signup.tsx]
         C[onboard.tsx]
         
-        subgraph "(auth)"
+        subgraph "Auth Pages"
             D[coinDetails.tsx]
-            
-            subgraph "(tabs)"
-                E[(coin)]
-                F[(profile)]
-                G[add.tsx]
-            end
+            E[tabs/coin]
+            F[tabs/profile]
+            G[tabs/add.tsx]
         end
     end
     
     subgraph "Components"
         H[common/]
         I[ui/]
-        J[(home)/]
-        K[(tokens)/]
-        L[(profile)/]
+        J[home/]
+        K[tokens/]
+        L[profile/]
     end
     
     subgraph "Backend"
-        M[utils/supabase.ts]
-        N[utils/websocket.ts]
-        O[supabase/functions/]
-        P[supabase/migrations/]
+        M[supabase.ts]
+        N[websocket.ts]
+        O[edge functions]
     end
     
     A --> B
     A --> C
-    B --> D
-    D --> E
-    D --> F
-    D --> G
-    
+    A --> D
     E --> H
     F --> H
     G --> H
-    H --> I
-    
     H --> M
     H --> N
-    M --> O
-    M --> P
     
     style A fill:#e3f2fd
     style H fill:#f1f8e9
@@ -391,71 +379,5 @@ graph LR
 - Real-time price feeds via Supabase realtime
 - Live purchase notifications and toasts
 - Token discovery with instant updates
-
-### Database Schema
-
-```mermaid
-erDiagram
-    CREATED_TOKENS {
-        uuid id PK
-        string name
-        string symbol
-        string image_url
-        string description
-        string creator_address
-        timestamp created_at
-        boolean is_active
-    }
-    
-    LISTED_TOKENS {
-        uuid id PK
-        string name
-        string symbol
-        string mint_address
-        decimal current_price
-        decimal market_cap
-        decimal volume_24h
-        boolean trading_enabled
-        timestamp listed_at
-    }
-    
-    PRESALE_TOKENS {
-        uuid id PK
-        string mint_address
-        decimal presale_price
-        decimal target_amount
-        decimal raised_amount
-        decimal graduation_threshold
-        timestamp presale_start
-        timestamp presale_end
-        string status
-    }
-    
-    USERS {
-        uuid id PK
-        string wallet_address
-        string email
-        string username
-        string profile_image
-        timestamp created_at
-        boolean is_verified
-    }
-    
-    PURCHASES {
-        uuid id PK
-        uuid user_id FK
-        uuid token_id FK
-        decimal amount_sol
-        decimal amount_tokens
-        decimal price_per_token
-        timestamp purchased_at
-    }
-    
-    CREATED_TOKENS ||--o{ LISTED_TOKENS : "graduates_to"
-    LISTED_TOKENS ||--o{ PRESALE_TOKENS : "has_presale"
-    USERS ||--o{ CREATED_TOKENS : "creates"
-    USERS ||--o{ PURCHASES : "makes"
-    PRESALE_TOKENS ||--o{ PURCHASES : "sold_in"
-```
 
 *Made with ❤️ and lots of boba 🧋*
